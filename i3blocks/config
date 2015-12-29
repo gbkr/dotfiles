@@ -88,5 +88,5 @@ command=/usr/libexec/i3blocks/moon_phase
 interval=600
 
 [time]
-command=date '+%Y-%m-%d %H:%M:%S'
+command=date '+%Y-%m-%d, %a %H:%M:%S'
 interval=5
