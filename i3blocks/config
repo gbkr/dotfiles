@@ -82,8 +82,10 @@ label=⚡
 command=/usr/libexec/i3blocks/battery
 interval=30
 
-#[moon]
-#label=
+[moon]
+label=
+command=/usr/libexec/i3blocks/moon_phase
+interval=600
 
 [time]
 command=date '+%Y-%m-%d %H:%M:%S'
